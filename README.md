@@ -1,6 +1,7 @@
 "# Visual-Studio-Code-Important-Extensions" 
 
 Extensions name: Reactjs code snippets
+
 For ShortCut Create React Component using rsc
 
 Extensions name: ES7+ React/Redux/React-Native snippets
