@@ -11,3 +11,7 @@ It is one of the most used extensions by React and React Native developers. It p
 Extensions name: Tailwind CSS IntelliSense
 
 Tailwind CSS IntelliSense enhances the Tailwind development experience by providing Visual Studio Code users with advanced features such as autocomplete, syntax highlighting, and linting.
+
+Emmets of HTML CSS
+-h1{Hello} + enter
+= <h1>Hello</h1>
