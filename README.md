@@ -17,4 +17,8 @@ Tailwind CSS IntelliSense enhances the Tailwind development experience by provid
 -h1{Hello} + enter
 = <h1>Hello</h1>
 
+<strong> 3 Important vs code Extension for javaScript</strong>
+1. ESLint
+2. Prettier
+3. Path Autocomplete
 
