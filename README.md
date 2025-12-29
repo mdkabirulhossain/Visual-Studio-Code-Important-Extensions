@@ -21,4 +21,5 @@ Tailwind CSS IntelliSense enhances the Tailwind development experience by provid
 1. ESLint
 2. Prettier
 3. Path Autocomplete
+4. gitlens
 
